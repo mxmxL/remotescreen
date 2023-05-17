@@ -2,12 +2,8 @@
 *.slo
 *.lo
 *.o
-*.a
 *.la
 *.lai
-*.so
-*.so.*
-*.dll
 *.dylib
 
 # Qt-es
@@ -52,3 +48,7 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+build
+
+*.user
